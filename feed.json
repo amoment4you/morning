@@ -1,0 +1,23 @@
+[
+  {
+    "uid": "urn:uuid:7b1e2c4a-0001-4a2b-9c11-20261109a001",
+    "updateDate": "2026-11-10T06:05:00.0Z",
+    "titleText": "Morning Devotional",
+    "mainText": "Good morning, Bryan. Today's verse is Proverbs chapter 27, verse 23: Be thou diligent to know the state of thy flocks, and look well to thy herds. This is a test of your morning briefing. Starting tomorrow, your full devotional, reading and affirmation will play here each morning.",
+    "redirectionUrl": "https://amoment4you.github.io/morning/"
+  },
+  {
+    "uid": "urn:uuid:7b1e2c4a-0002-4a2b-9c11-20261109a002",
+    "updateDate": "2026-11-10T06:04:00.0Z",
+    "titleText": "Your Card and Color",
+    "mainText": "Your card today is The Hierophant, upright: trust proven wisdom and tradition. Your color is deep burgundy, and face North. Today is a new moon.",
+    "redirectionUrl": "https://amoment4you.github.io/morning/"
+  },
+  {
+    "uid": "urn:uuid:7b1e2c4a-0003-4a2b-9c11-20261109a003",
+    "updateDate": "2026-11-10T06:03:00.0Z",
+    "titleText": "Today's Affirmation",
+    "mainText": "Today's affirmation: Every day my clinic grows stronger, my books grow clearer, and abundance flows to the work of my hands.",
+    "redirectionUrl": "https://amoment4you.github.io/morning/"
+  }
+]
